@@ -1,0 +1,20 @@
+a.) For me single-threaded is a single task execution of any program which is used usually in websites or web servers to
+    maintain its accuracy and fast execution or loading of data. It is reliable and fast now adays since its uses effecient
+    multiple cores of a CPU and also it depends on the settings.
+    
+b.) Event driven architechture is a system's way of handling certain or specific event from user. Usually one server will handle
+    multiple users or clients that will give a possible problems like server down. But through event driven architecture this solution
+    will only read execution once and will wait for it to be loaded. For the mean time while waiting, it will also execute another event
+    from another user.
+  
+c.) The benefits of having javascript module is that it is accurate and well organized coding that will be more standards among devices such as ANDROIDS, WEBSITES,
+    and other devices that uses java. Since it is usually used in knowned systems they friendly to devices among all of the programming languages.
+    
+d.) 1.) AMD(Asychronous Module Definition 
+    2.) CommonJS.
+
+e.) Module Bundler is like library package, web package, that will be used by calling certain imports and includes to be able
+    to program according to its usage that will depend on the programmer's needs. Without Module Bundler usually if it is not
+    built-in within its platform it will cause and error or it cannot read/locate from the system.
+    
+    
